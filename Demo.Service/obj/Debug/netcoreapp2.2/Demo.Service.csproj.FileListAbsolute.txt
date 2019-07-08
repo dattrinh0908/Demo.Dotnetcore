@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\DemoDotNetCoreWeb\Demo.Service\bin\Debug\netcoreapp2.2\Demo.Service.deps.json
+C:\Users\Admin\source\repos\DemoDotNetCoreWeb\Demo.Service\bin\Debug\netcoreapp2.2\Demo.Service.dll
+C:\Users\Admin\source\repos\DemoDotNetCoreWeb\Demo.Service\bin\Debug\netcoreapp2.2\Demo.Service.pdb
+C:\Users\Admin\source\repos\DemoDotNetCoreWeb\Demo.Service\bin\Debug\netcoreapp2.2\Demo.Common.dll
+C:\Users\Admin\source\repos\DemoDotNetCoreWeb\Demo.Service\bin\Debug\netcoreapp2.2\Demo.Data.dll
+C:\Users\Admin\source\repos\DemoDotNetCoreWeb\Demo.Service\bin\Debug\netcoreapp2.2\Demo.Model.dll
+C:\Users\Admin\source\repos\DemoDotNetCoreWeb\Demo.Service\bin\Debug\netcoreapp2.2\Demo.Common.pdb
+C:\Users\Admin\source\repos\DemoDotNetCoreWeb\Demo.Service\bin\Debug\netcoreapp2.2\Demo.Data.pdb
+C:\Users\Admin\source\repos\DemoDotNetCoreWeb\Demo.Service\bin\Debug\netcoreapp2.2\Demo.Model.pdb
+C:\Users\Admin\source\repos\DemoDotNetCoreWeb\Demo.Service\obj\Debug\netcoreapp2.2\Demo.Service.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DemoDotNetCoreWeb\Demo.Service\obj\Debug\netcoreapp2.2\Demo.Service.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DemoDotNetCoreWeb\Demo.Service\obj\Debug\netcoreapp2.2\Demo.Service.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DemoDotNetCoreWeb\Demo.Service\obj\Debug\netcoreapp2.2\Demo.Service.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DemoDotNetCoreWeb\Demo.Service\obj\Debug\netcoreapp2.2\Demo.Service.csproj.CopyComplete
+C:\Users\Admin\source\repos\DemoDotNetCoreWeb\Demo.Service\obj\Debug\netcoreapp2.2\Demo.Service.dll
+C:\Users\Admin\source\repos\DemoDotNetCoreWeb\Demo.Service\obj\Debug\netcoreapp2.2\Demo.Service.pdb

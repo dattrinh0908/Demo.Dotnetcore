@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\DemoDotNetCoreWeb\Demo.Model\bin\Debug\netcoreapp2.2\Demo.Model.deps.json
+C:\Users\Admin\source\repos\DemoDotNetCoreWeb\Demo.Model\bin\Debug\netcoreapp2.2\Demo.Model.dll
+C:\Users\Admin\source\repos\DemoDotNetCoreWeb\Demo.Model\obj\Debug\netcoreapp2.2\Demo.Model.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DemoDotNetCoreWeb\Demo.Model\obj\Debug\netcoreapp2.2\Demo.Model.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DemoDotNetCoreWeb\Demo.Model\obj\Debug\netcoreapp2.2\Demo.Model.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DemoDotNetCoreWeb\Demo.Model\obj\Debug\netcoreapp2.2\Demo.Model.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DemoDotNetCoreWeb\Demo.Model\bin\Debug\netcoreapp2.2\Demo.Model.pdb
+C:\Users\Admin\source\repos\DemoDotNetCoreWeb\Demo.Model\obj\Debug\netcoreapp2.2\Demo.Model.dll
+C:\Users\Admin\source\repos\DemoDotNetCoreWeb\Demo.Model\obj\Debug\netcoreapp2.2\Demo.Model.pdb
