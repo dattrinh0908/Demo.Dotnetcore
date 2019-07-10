@@ -1,9 +1,0 @@
-C:\Users\Admin\source\repos\DemoDotNetCoreWeb\Demo.Common\bin\Debug\netcoreapp2.2\Demo.Common.deps.json
-C:\Users\Admin\source\repos\DemoDotNetCoreWeb\Demo.Common\bin\Debug\netcoreapp2.2\Demo.Common.dll
-C:\Users\Admin\source\repos\DemoDotNetCoreWeb\Demo.Common\bin\Debug\netcoreapp2.2\Demo.Common.pdb
-C:\Users\Admin\source\repos\DemoDotNetCoreWeb\Demo.Common\obj\Debug\netcoreapp2.2\Demo.Common.csprojAssemblyReference.cache
-C:\Users\Admin\source\repos\DemoDotNetCoreWeb\Demo.Common\obj\Debug\netcoreapp2.2\Demo.Common.csproj.CoreCompileInputs.cache
-C:\Users\Admin\source\repos\DemoDotNetCoreWeb\Demo.Common\obj\Debug\netcoreapp2.2\Demo.Common.AssemblyInfoInputs.cache
-C:\Users\Admin\source\repos\DemoDotNetCoreWeb\Demo.Common\obj\Debug\netcoreapp2.2\Demo.Common.AssemblyInfo.cs
-C:\Users\Admin\source\repos\DemoDotNetCoreWeb\Demo.Common\obj\Debug\netcoreapp2.2\Demo.Common.dll
-C:\Users\Admin\source\repos\DemoDotNetCoreWeb\Demo.Common\obj\Debug\netcoreapp2.2\Demo.Common.pdb

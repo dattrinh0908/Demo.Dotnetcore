@@ -27,3 +27,6 @@ someOtherfoler/
 *.tar
 *.zip
 /.vs/DemoDotNetCoreWeb/v15/Server/sqlite3
+/.vs/DemoDotNetCoreWeb/v15
+*/bin/*
+*/obj/*
