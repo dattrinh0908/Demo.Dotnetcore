@@ -7,14 +7,13 @@ using System.Text;
 namespace Demo.Model.Models
 {
     [Table("ProductTags")]
-    class ProductTag
+    public class ProductTag
     {
         [Key]
         public int ProductID { get; set; }
 
         [Key]
-        [MaxLength(256)]
-        [Column(TypeName = "varchar")]
+        [MaxLength(50)]
         public string TagID { get; set; }
 
         [ForeignKey("ProductID")]

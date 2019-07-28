@@ -29,10 +29,13 @@ namespace Demo.Model.Models
         [MaxLength(256)]
         public string Image { get; set; }
 
-        public XElement MoreImages { get; set; }
+        [Column(TypeName = "varchar(max)")]
+        public string MoreImages { get; set; }
 
+        [Column(TypeName = "decimal(8,2)")]
         public decimal Price { get; set; }
 
+        [Column(TypeName = "decimal(8,2)")]
         public decimal? PromotionPrice { get; set; }
 
         public int Warranty { get; set; }

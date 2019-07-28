@@ -18,8 +18,7 @@ namespace Demo.Model.Models
         public string Name { get; set; }
 
         [Required]
-        [MaxLength(256)]
-        [Column(TypeName = "varchar")]
+        [Column(TypeName = "varchar(256)")]
         public string Alias { get; set; }
 
         [MaxLength(500)]

@@ -13,8 +13,7 @@ namespace Demo.Model.Models
         public int PostID { get; set; }
 
         [Key]
-        [MaxLength(256)]
-        [Column(TypeName = "varchar")]
+        [MaxLength(50)]
         public string TagID { get; set; }
 
         [ForeignKey("PostID")]
